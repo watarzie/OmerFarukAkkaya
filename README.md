@@ -3,7 +3,7 @@
 ## About
 - 🔭 &nbsp;I’m currently working on .Net Core,SQL and Javascript
 - 🌱 &nbsp;I’m currently learning .Net Core
-- 💬 &nbsp;Ask me about anything related to .Net/SQL
+- 💬 &nbsp;Ask me about anything related to .Net Core
 - 📫 &nbsp;How to reach me:[omer-akkaya@outlook.com]
 
 
